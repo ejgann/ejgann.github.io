@@ -1,11 +1,11 @@
 # Site settings
-author: Emily G
-title: 
+author: Emily Gann
+title: "If it works, don't touch it"
 header-img: img/home-bg.png
 email: aspentree79@gmail.com
-copyright_name: Emily G
+copyright_name: Emily Gann
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Sharing useful and interesting things I've learned
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ejgann
