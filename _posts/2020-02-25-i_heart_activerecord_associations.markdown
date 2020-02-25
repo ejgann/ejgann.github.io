@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I [heart] ActiveRecord Associations"
-date:       2020-02-25 12:32:17 +0000
+date:       2020-02-25 07:32:17 -0500
 permalink:  i_heart_activerecord_associations
 ---
 
