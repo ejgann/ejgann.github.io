@@ -1,14 +1,12 @@
 ---
 layout: post
 title:      "The Enchantment of Rails' Nested Attributes"
-date:       2020-04-01 16:54:28 +0000
+date:       2020-04-01 12:54:29 -0400
 permalink:  the_enchantment_of_rails_nested_attributes
 ---
 
 
 If Rails' nested attributes was a toy featured in a toy store's front window, I would totally be the kid with her nose pressed to the glass, staring in awe at its beauty and coolness.
-
-![](https://giphy.com/gifs/3uDicEPzIS5Da/html5)
 
 Nested attributes are an incredibly efficient Rails feature that enables you to save attributes on associated records through its parent model. 
 
