@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Reacquainted with Rails MVC Framework"
-date:       2020-01-16 01:51:17 +0000
+date:       2020-01-15 20:51:18 -0500
 permalink:  getting_reacquainted_with_rails_mvc_framework
 ---
 
@@ -10,7 +10,7 @@ I took a bit of a break from coding over the past month and am now diving back i
 
 ## What is MVC?
 
-Let's say that one is wanting to do just about anything online. To whittle down the possibilities, let's say that this person is interested in shopping online at [chewy.com](http://chewy.com) to find their dog, Gus, a new sweater. After typing the the address into the address bar and hitting "enter", the client (i.e. the computer this person is using) sends a HTTP request to the server used by Chewy's website. In turn, the server responds by loading the website's HTML.
+Let's say that one is wanting to do just about anything online. To whittle down the possibilities, let's say that this person is interested in shopping online at [chewy.com](http://chewy.com) to find their dog, Gus, a new sweater. After typing the address into the address bar and hitting "enter", the client (i.e. the computer this person is using) sends a HTTP request to the server used by Chewy's website. In turn, the server responds by loading the website's HTML.
 
 Okay, great, you may be saying. But, what does that have to do with the MVC framework? Well, this whole HTTP request-response process is the MVC at work. Let's pause on sweater-shopping and look a little more in depth at the MVC components. 
 
