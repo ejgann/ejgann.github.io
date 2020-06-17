@@ -25,7 +25,7 @@ $ rails new YourProjectName
 Head over to `github.com/new` (you'll need to be logged into your account). 
 ![](https://imgur.com/WA29s4u)
 
-Type in the name of your respository (I retain the name of my project for simplicity's sake). You can add a description if you want to. Select whether your repo will be public or private (public is the default). I personally do not check the box "Initialize this repository with a README" since the rails generator automatically creates one for us. I also select "None" for both the "Add .gitignore" and "Add a license" dropdowns. Click on "Create repository".
+Type in the name of your repository (I retain the name of my project for simplicity's sake). You can add a description if you want to. Select whether your repo will be public or private (public is the default). I personally do not check the box "Initialize this repository with a README" since the rails generator automatically creates one for us. I also select "None" for both the "Add .gitignore" and "Add a license" dropdowns. Click on "Create repository".
 
 ## 4. Connect your project to your new Github repo
 After you create your repo, the next screen will show steps for how to set it up. Since you've just created a new repo, you'll want to follow the instructions for "...or create a new repository on the command line". In your terminal, change directories to the one that houses your new project. One at a time, run the following commands:
