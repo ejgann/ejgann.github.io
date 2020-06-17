@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Setting Up Your Rails Project in Github"
-date:       2020-06-17 18:38:37 +0000
+date:       2020-06-17 14:38:38 -0400
 permalink:  setting_up_your_rails_project_in_github
 ---
 
